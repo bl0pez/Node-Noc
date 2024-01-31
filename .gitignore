@@ -2,6 +2,7 @@ node_modules/
 dist/
 logs/
 mongo/
+postgres/
 .env
 
 
