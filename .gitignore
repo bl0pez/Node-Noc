@@ -1,9 +1,13 @@
 node_modules/
 dist/
+coverage/
 logs/
 mongo/
+mongo-test/
 postgres/
+postgres-test/
 .env
+.env.test
 
 
 # Logs
